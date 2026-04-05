@@ -2,7 +2,7 @@ import type {
   TNavLink,
   TService,
   TTechnology,
-  TExperience,
+  TExperience,  git remote add origin https://github.com/barntskendra4/reactjs18-3d-portfolio.git
   TProject,
 } from "../types";
 
