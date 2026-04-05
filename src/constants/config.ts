@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Kendra Barnts Portfolio",
+    fullName: "Kendra Barnts",
+    email: "kendrabarnts1@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Kendra Barnts",
+    p: ["I am a junior full-stack developer"],
   },
   contact: {
     p: "Get in touch",
@@ -67,18 +67,18 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `As a passionate and dedicated junior full stack developer, I thrive on creating innovative and efficient web applications. With a solid background in both front-end and back-end technologies, I excel at bridging the gap between aesthetic design and robust functionality.
+
+      I’m a quick learner and always eager to dive into new challenges and technologies. Whether it’s adapting to the latest frameworks or troubleshooting complex issues, my ability to swiftly grasp and apply new concepts sets me apart.
+
+      Beyond the technical realm, I’m a people person at heart. Collaboration and communication are key to my approach, ensuring that project goals are met while fostering a positive and productive team environment. My interpersonal skills allow me to connect with clients and colleagues alike, translating complex technical jargon into understandable insights and fostering effective teamwork.`,
     },
     experience: {
       p: "What I have done so far",
       h2: "Work Experience.",
     },
     feedbacks: {
-      p: "What others say",
+      p: "What others think",
       h2: "Testimonials.",
     },
     works: {
@@ -90,5 +90,5 @@ export const config: TConfig = {
     ability to solve complex problems, work with different technologies,
     and manage projects effectively.`,
     },
-  },
+  }
 };
