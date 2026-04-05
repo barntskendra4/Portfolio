@@ -15,6 +15,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import threejs from "./tech/threejs.svg";
+import python from "./python.png";
 import persevere from "./company/persevere.jpg"
 import jtc from "./company/JTC.jpg"
 import freshOut from "./company/freshOut.jpg"
@@ -39,6 +40,7 @@ export {
   nodejs,
   reactjs,
   threejs,
+  python,
   persevere,
   jtc,
   freshOut,

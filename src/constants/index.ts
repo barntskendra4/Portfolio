@@ -20,6 +20,7 @@ import {
   git,
   threejs,
   persevere,
+  python,
   jtc,
   freshOut,
   kawa,
@@ -92,6 +93,10 @@ const technologies: TTechnology[] = [
   {
     name: "git",
     icon: git,
+  },
+  {
+    name: "Python",
+    icon: python,
   },
 ];
 
